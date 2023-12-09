@@ -1,0 +1,218 @@
+.row1{
+	background-color: #2D3E50;
+	height: 70px;
+	color: white;
+}
+.row2{
+	color: white;
+	background: #1BBC9B;
+}
+h2{
+	margin-top: 15px;
+	margin-left: 185px;
+	text-align: center;
+}
+h3{
+	font-size: 18px;
+	text-align: center;
+	margin-top: 20px;
+}
+.bitmoji{
+	border-radius: 50%;
+  width: 145px;
+  height: 133px;
+  margin-top: 36%;
+  margin-left: 414%;
+}
+.name{
+	margin-left: 27%;
+  margin-top: 14%;
+}
+.graphic{
+	margin-left: 409px;
+  margin-top: 1px;
+  margin-bottom: 3rem;
+  font-size: x-large;
+}
+.row3 {
+  text-align: center;
+  margin-top: 20px;
+}
+.row3 figure {
+  display: inline-block;
+  margin: 0 10px;
+}
+.row3 img {
+  width: 100px; 
+  height: auto;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+.portfolio{
+	color: #2D3E50;
+	margin-left: 45%;
+  margin-top: 1px;
+  margin-right: 3%;
+}
+.skillrow{
+	margin-left: 22%;
+}
+.img1{
+	margin-top: 11%;
+  width: 14%;
+  margin-left: 5%;
+  height: 14%; 
+}
+.row4{
+	background-color: #1BBC9B;
+	color: white;
+}
+.aboutme1{
+	margin-top: 3%;
+	margin-left: 44%;
+}
+.para1{
+	margin-bottom: 8%;
+  margin-top: 5%;
+  margin-left: 8%;
+}
+.para2{
+	margin-top: 5%;
+  margin-left: 3%;
+  margin-bottom: 10%;
+}
+.row5{
+	color:#2D3E50;
+}
+.contactme{
+	color: #2D3E50;
+  margin-left: 42%;
+  margin-top: 3%;
+}
+.contactform{
+	margin-top: 12%;
+  margin-left: -24%;
+  margin-bottom: 9%;
+}
+.namebox{
+	border-right: none;
+  border-left: none;
+  width: 243%;
+  margin-top: 5%;
+  border-top: none;
+  border-width: thin;
+}
+
+.email{
+	margin-top: 11%;
+}
+.emailbox{
+	border-right: none;
+  border-left: none;
+  width: 243%;
+  margin-top: 5%;
+  border-top: none;
+  border-width: thin;
+}
+.number{
+	margin-top: 11%;
+}
+.numberbox{
+	border-right: none;
+  border-left: none;
+  width: 243%;
+  margin-top: 5%;
+  border-top: none;
+  border-width: thin;
+}
+.message{
+	margin-top: 11%;
+}
+.messagebox{
+	border-right: none;
+  border-left: none;
+  width: 243%;
+  height: 20%;
+  margin-top: 5%;
+  border-top: none;
+  border-width: thin;
+}
+.submit{
+	border-radius: 7%;
+  width: 41%;
+  background-color: #1BBC9B;
+  color: white;
+  border: none;
+  height: 10%;
+  margin-top: 7%;
+}
+.row6{
+	background-color: #2D3E50;
+	color: white;
+}
+.location{
+	margin-top: 34px;
+  margin-left: 142px;
+}
+.Hyderabad{
+	margin-left: 142px;
+	margin-top: -15px;
+}
+.pin{
+	margin-bottom: 56px;
+  margin-top: -16px;
+  margin-left: 142px;
+}
+.web{
+	margin-top: 34px;
+  margin-left: 80px;
+}
+.about{
+	margin-top: 34px;
+  margin-left: 20%;
+}
+.aboutme{
+	margin-left: 142px;
+}
+.row7{
+	background-color: #1B252F;
+}
+.facebook{
+	height: 1px;
+	color: white;
+	padding: 12px;
+  width: 50px;
+  margin-top: -41px;
+  margin-left: 142px;
+}
+.twitter{
+	height: 1px;
+	color: white;
+	padding: 12px;
+  width: 50px;
+  margin-top: -41px;
+  margin-left: 19px;
+}
+.instagram{
+	height: 1px;
+	color: white;
+	padding: 12px;
+  width: 50px;
+  margin-top: -41px;
+  margin-left: 19px;
+}
+.Copyright{
+	color: white;
+	padding-left: 42%;
+	padding-top: 1%;
+}
+.cap1{
+	margin-left: 15%;
+	margin-top: -10%;
+}
+figcaption {
+  font-size: 16px;
+  color: #333;
+  margin-left: 20%;
+  margin-bottom: 10%;
+}
